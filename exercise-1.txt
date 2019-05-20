@@ -1,0 +1,46 @@
+1. Pseudocode
+   STORE 'm" with number 600
+   STORE 'a' with number 2
+   STORE 'F' without any value
+   CALCULATE 'm' times 'a'
+   SET 'F'value with calculation result 
+   DISPLAY 'F'
+
+2. STORE 'year' any value
+   IF 'year' mod 4 equal 0 and 'year' mod 100 equals 0  
+   	DISPLAY 'kabisat'
+   ELSE IF 'year' mod 4 equal 0 and 'year' mod 100 > 0"
+   	DISPLAY 'kabisat'
+   ELSE 
+   	DISPLAY 'bukan kabisat'
+
+3 STORE 'baju diluar' 20            
+  STORE 'jumlah didalam' 0         STORE 'jumlah didalam' 0
+  WHILE 'baju diluar' > 0          WHILE 'jumlah didalam <=20
+  	DISPLAY masukan baju              DISplay masukan
+     SET baju diluar kurang' 1         
+     SET 'jumlah didalam tambah' 1     set jumlah didalam tambah 1 
+ 	END WHILE			end while
+  DISPLAY 'jumlah didalam'		display nyalain mesin 
+  DISPLAY nyalain mesin cuci		display jumlah didalm 
+
+4. STORE murid 40
+   WHILE murid > 0   
+   	Display 'periksa'
+	SET murid kurang 1
+	IF periksa kuku panjang equals true 
+ 		DISPLAY dihukum
+	ELSE 
+		DISPLAY dipuji
+   END WHILE
+
+
+
+
+ 
+
+
+if condition
+  do  aomething
+ 
+
