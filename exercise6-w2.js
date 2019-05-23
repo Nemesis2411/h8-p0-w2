@@ -40,7 +40,6 @@ for (i = 1;i <= 100;i++) {
 }
 
 //counter 2 kelipatan 3
-var number = '';
 var i;
 for ( i = 1; i < 100; i+=2) {
   if (i%3 === 0) {
@@ -52,7 +51,6 @@ for ( i = 1; i < 100; i+=2) {
 }
 
 //counter 5 kelipatan 6
-var number = '';
 var i;
 for ( i = 1; i < 100; i+=5) {
   if (i%6 === 0) {
@@ -64,7 +62,6 @@ for ( i = 1; i < 100; i+=5) {
 }
 
 //counter 9 kelipatan 10
-var number = '';
 var i;
 for ( i = 1; i < 100; i+=9) {
   if (i%10 === 0) {
