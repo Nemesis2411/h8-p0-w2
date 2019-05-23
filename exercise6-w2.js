@@ -1,12 +1,12 @@
 //soal 1
 console.log('LOOPING PERTAMA');
-var number = '';
+
 var i = 0;
 while (i < 20) {
   console.log((i+2) + ' - I Love coding ');i+=2;
 }
 console.log('LOOPING KEDUA');
-var number = '';
+
 var i = 20;
 while (i > 0) {
   console.log(i + ' - I will become fullstack developer');i-=2;
@@ -14,13 +14,13 @@ while (i > 0) {
 
 //soal 2
 console.log('LOOPING PERTAMA');
-var number = '';
+
 var i ;
 for (i = 1; i <= 20;i++) {
   console.log(i + ' - I Love Coding');
 }
 console.log('LOOPING KEDUA');
-var number = '';
+
 var i;
 for (i=20; i>=1;i--) {
   console.log(i + ' - I will become fullstack developer');
@@ -28,7 +28,7 @@ for (i=20; i>=1;i--) {
 
 //soal 3
 //bagian GANJIL GENAP
-var number = '';
+
 var i ;
 for (i = 1;i <= 100;i++) {
   if (i%2 === 0){
