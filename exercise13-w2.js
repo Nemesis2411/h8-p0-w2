@@ -1,16 +1,16 @@
 function xo(str) {
     // you can only write your code here!
-    var countX=0
-    var countO=0
-  for (var i = str.length-1; i>=0; i--) {
+    var hitungX=0
+    var hitungO=0
+    for (var i = 0; i < str.length; i++) {
 if(str[i]=="x"){
-    countX++
+    hitungX++
 }
 else{
-    countO++
+    hitungO++
 }
   }
-  if(countO==countX){
+  if(hitungX == hitungO){
       return true
   }else{
       return false
