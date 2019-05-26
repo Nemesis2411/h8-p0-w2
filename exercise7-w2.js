@@ -25,9 +25,3 @@ for (j = i; j <= rows2; j++) {
 }
 console.log(bintang);
 }
-/*var bintang = ''
-var rows2 = 5;
-  for (i = 0; i < rows2; i++) {
-    bintang += '*'
-     console.log(bintang) 
-  }  */
