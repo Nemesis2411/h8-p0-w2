@@ -17,9 +17,17 @@ for (i = 0; i < rows2; i++) {
 }
 
 //soal 3
-var bintang = ''
+var rows2 = 5;
+for (i = rows2; i >= 1; i--) {
+ var bintang = '';
+for (j = i; j <= rows2; j++) {
+  bintang += '*';
+}
+console.log(bintang);
+}
+/*var bintang = ''
 var rows2 = 5;
   for (i = 0; i < rows2; i++) {
     bintang += '*'
      console.log(bintang) 
-  }  
+  }  */
